@@ -7,3 +7,11 @@ Fecha: 12/12//2015
 Autor: PTO
 
 Se le invita al colaborador JT
+
+Fecha: 15/12/2015
+
+Se crea un nuevo repositorio corrigiendo el archivo .gitignore
+para evitar los conflictos que se generan con el AndroidStudio
+al no ignorar los archivos del .idea que se añadieron al proyecto 
+la promera ves.
+
