@@ -1,3 +1,7 @@
+# Archivos IDE AndroidStudio
+.idea
+.idea/*
+
 # Built application files
 *.apk
 *.ap_
