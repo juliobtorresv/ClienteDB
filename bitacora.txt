@@ -1,17 +1,43 @@
+
+
+=================
 Fecha: 12/12/2015
 Autor: JT
+=================
 
 Se inica la bitacora
 
+==================
 Fecha: 12/12//2015
 Autor: PTO
+==================
 
 Se le invita al colaborador JT
 
+=================
 Fecha: 15/12/2015
+Autor: JT
+=================
 
 Se crea un nuevo repositorio corrigiendo el archivo .gitignore
 para evitar los conflictos que se generan con el AndroidStudio
 al no ignorar los archivos del .idea que se añadieron al proyecto 
-la promera ves.
+la primera ves.
 
+-------------------------------------------------
+   Consideraciones de diseño de la Aplicacion
+-------------------------------------------------
+
+1. La app debe mostrar una lista de productos conforme se vayan leyendo
+   del código de barras, conjuntamente con su precio.
+
+2. Al final de la lista debe aparecer la suma de todos los items leidos 
+   en la aplicación, de manera que se obtenga el valor total a pagar.
+
+Algoritmo:
+
+1. Leer codigo de barras del artículo.
+2. Consultar artículo en la BD.
+3. Listar nombre y precio en la pantalla.
+4. Actualizar suma total
+5. Regresar Paso 1.
