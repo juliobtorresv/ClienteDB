@@ -5,7 +5,7 @@ Source Server         : 192.168.2.6
 Source Server Version : 50173
 Source Host           : localhost:3306
 Source Database       : ClienteDB
-
+ 
 Target Server Type    : MYSQL
 Target Server Version : 50173
 File Encoding         : 65001
