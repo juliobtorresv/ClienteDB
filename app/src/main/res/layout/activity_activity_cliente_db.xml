@@ -25,7 +25,7 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
-        android:text="jdbc:mysql://181.199.83.158:3306/mysql" />
+        android:text="jdbc:mysql://10.117.4.112:3306/ClienteDB" />
 
     <Button
         android:layout_width="wrap_content"
